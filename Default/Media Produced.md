@@ -1,0 +1,2 @@
+- Has a blog called [[Gaius Invictus]]
+- Takes daily notes

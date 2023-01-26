@@ -1,0 +1,1 @@
+Rubber Duck Debugging is the process where by explaining the problem in problem in spoken, natural language. Generally this is to an inanimate object such as a Rubber Duck.

@@ -1,0 +1,9 @@
+ - Healthy and Enjoyable
+ - Calories in Calories Out
+ - Protein over Fat over Carbs
+     - Generally 1 Gram of Protein per pound
+     - Set Carbs and Fat
+ - Eat what you like
+ - Maintain control over what you eat by not eating out.
+ - 1 Day a Week Cheat Day
+ - 
